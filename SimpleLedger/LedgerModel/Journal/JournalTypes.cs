@@ -12,7 +12,9 @@ namespace LedgerModel.Journal
         SalesJournal = 2,
         PurchasesJournal = 3,
         CashReceiptsJournal = 4,
-        CashPaymentsJournal = 5
+        CashPaymentsJournal = 5,
+        SalesReturnsJournal = 6,
+        PurchaseReturnsJournal = 7
 
     }
 }
