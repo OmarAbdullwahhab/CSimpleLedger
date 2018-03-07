@@ -45,9 +45,12 @@
     <Compile Include="Journal\JournalTransaction.cs" />
     <Compile Include="Journal\JournalTypes.cs" />
     <Compile Include="Ledger\AccountTypes.cs" />
+    <Compile Include="Reporting\FinancialStatement.cs" />
+    <Compile Include="Reporting\FinancialStatementItem.cs" />
     <Compile Include="Ledger\LedgerAccount.cs" />
     <Compile Include="Ledger\NormalBalance.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
